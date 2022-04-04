@@ -1,0 +1,6 @@
+# Names of files that are not to be version controlled or add in local repo
+
+*.xml
+*.txt
+
+
